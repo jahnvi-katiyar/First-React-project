@@ -1,3 +1,16 @@
-body{
-    background-color: red;
+nav, ul{
+    display:flex
+}
+
+li{
+    list-style-type: none;
+}
+
+ul{
+    gap:110px;
+}
+
+nav{
+    background-color: rgb(196, 158, 232);
+    padding: 3px;
 }
